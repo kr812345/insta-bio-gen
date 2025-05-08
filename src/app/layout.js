@@ -48,10 +48,13 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: 'https://insta-bio-generator.vercel.app',
+    canonical: 'https://insta-bio-gen.vercel.app',
   },
   verification: {
     google: 'your-google-site-verification',
+  },
+  other: {
+    'google-adsense-account': 'ca-pub-2982909406885152',
   },
 };
 
